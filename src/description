@@ -1,0 +1,5 @@
+ECR-POS Interface written in Java
+User -> TestController -> TestReader implements IniReader
+User <- TestController <- TestReader implements IniReader
+id   -> getTest        -> read Test
+
